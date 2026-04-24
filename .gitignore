@@ -1,0 +1,11 @@
+venv/
+data/
+results/
+.orze/
+.env
+__pycache__/
+*.pyc
+*.egg-info/
+orze/
+orze-pro/
+*.ingest_state.json
